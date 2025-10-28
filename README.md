@@ -2,6 +2,7 @@
 
 This project is to review **how to define and call functions** in JavaScript — both **with parameters** and **without parameters**.  
 
+[Demo](https://output.jsbin.com/kixefog/): https://output.jsbin.com/kixefog/
 ---
 
 ## 🎯 Learning Objectives
